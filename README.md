@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm currently working on becoming a data scientist. 
+.
+Reach out to me via email:
+rickycircelli8@gmail.com
+
 <!--
 **rickycircelli/rickycircelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
